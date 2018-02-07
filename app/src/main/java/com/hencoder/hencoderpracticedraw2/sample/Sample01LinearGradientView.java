@@ -35,5 +35,7 @@ public class Sample01LinearGradientView extends View {
         super.onDraw(canvas);
 
         canvas.drawCircle(300, 300, 200, paint);
+
+
     }
 }
